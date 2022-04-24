@@ -1,0 +1,7 @@
+The project is a Maven Project 
+It is using csv dependency in the pom file 
+To run the project simply run the file named as CalTrip.java 
+Two files (taps.csv and trips.csv) have been given along to see the input and output respectively 
+
+csvWriter and reader has been used to read write csv files
+The writer connection is closed once writing is done 
