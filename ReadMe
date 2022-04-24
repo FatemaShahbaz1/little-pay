@@ -1,7 +1,9 @@
 # Bus Trip Calculator
 
 ## Description 
-This is a Maven Project.
+This is a Maven Project which is taking csv file as input and provides output in csv file. The project is about calculating bus trip of a passenger who is tapping on
+or off their PAN numbers at different stops. The project determines road trip duartion, charged amount and status of a trip. The status can be cancelled, incomplete 
+or complete. 
 
 ## How to run
 1. Import the project in IntelliJ or netbeans 
