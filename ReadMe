@@ -1,7 +1,19 @@
-The project is a Maven Project 
-It is using csv dependency in the pom file 
-To run the project simply run the file named as CalTrip.java 
-Two files (taps.csv and trips.csv) have been given along to see the input and output respectively 
+# Bus Trip Calculator
 
-csvWriter and reader has been used to read write csv files
-The writer connection is closed once writing is done 
+## Description 
+This is a Maven Project.
+
+## How to run
+1. Import the project in IntelliJ or netbeans 
+1. Install the jdk to run the proj 
+1. In the prject directory , open pom.xml file and if maven symbol appears, click on the maven icon to download the dependencies 
+1. Open calTrip.java file from the path CalculateBusTrip >> src >> main >> java >> calTrip.java. The variables(csv and strfile) put the new path of the 
+input output files in the variables. 
+1. Click the green icon at top to run the file 
+
+
+## Notes 
+* CSV files (taps.csv and trips.csv) shall be placed under project folder. 
+* Two files (taps.csv and trips.csv) have been given along to see the input and output respectively 
+* CSVWriter and reader has been used to read write csv files
+* The writer connection is closed once writing is done 
